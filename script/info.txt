@@ -1,0 +1,11 @@
+Scan the folders for all the audio files. It should be 1189 files, since the bible has 1189 chapters.
+
+The columns of the generated .csv files are
+
+- Folder
+- Files
+- Size
+- Size (Bytes)
+- Length (Seconds)
+
+Further length conversions to minutes or hours  can be calculated in Excel.
