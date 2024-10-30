@@ -2,9 +2,9 @@ import os
 import csv
 from mutagen.mp3 import MP3
 
-directory_audio_files = "W:\\bible\\en\\"
+directory_audio_files = "W:\\bible\\en_2020\\"
 # directory_audio_files = os.getcwd()  #     if executed inside the folder with the files
-csv_file = "info_audio_files_en.csv"
+csv_file = "info_audio_files_en_2020.csv"
 
 def list_folders_files_and_size(directory):
     folders_info = {}
