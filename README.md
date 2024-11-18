@@ -1,6 +1,6 @@
 # Dọc Kinh Thánh
 
-![example workflow](https://github.com/kreier/kinhthanh/actions/workflows/static.yml/badge.svg)
+[![pages-build-deployment](https://github.com/kreier/kinhthanh/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/kinhthanh/actions/workflows/pages/pages-build-deployment)
 
 Những điểm nổi bật trong bài đọc Kinh Thánh
 
