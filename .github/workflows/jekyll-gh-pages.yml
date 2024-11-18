@@ -9,6 +9,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Let's hope its not overwritten https://codewrites.me/jekyll/katex/blog/2020/08/26/use-katex-gh-pages/
+kramdown:
+  math_engine: katex
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -21,9 +25,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Let's hope its not overwritten https://codewrites.me/jekyll/katex/blog/2020/08/26/use-katex-gh-pages/
-kramdown:
-  math_engine: katex
+
 
 jobs:
   # Build job
