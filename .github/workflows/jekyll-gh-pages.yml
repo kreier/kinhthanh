@@ -21,6 +21,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+# Let's hope its not overwritten https://codewrites.me/jekyll/katex/blog/2020/08/26/use-katex-gh-pages/
+kramdown:
+  math_engine: katex
+
 jobs:
   # Build job
   build:
