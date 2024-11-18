@@ -12,4 +12,8 @@ Dự án này được lấy cảm hứng từ [dự án tiếng Anh này](https
 
 - 2023/12/22 Bắt đầu dự án này bằng tiếng Việt. Kho lưu trữ này đã được tạo.
 - 2024/10/30 Tài liệu tập tin âm thanh cho [tiếng Anh](https://github.com/kreier/kinhthanh/blob/main/data/size_audio_en.csv) và [tiếng Việt](https://github.com/kreier/kinhthanh/blob/main/data/size_audio_vi.csv).
-- 2024/11/18 Tài liệu về các tập tin âm thanh bằng tiếng Đức. 
+- 2024/11/18 Tài liệu về các tập tin [âm thanh bằng tiếng Đức](https://github.com/kreier/kinhthanh/blob/main/data/size_audio_de.csv). 
+
+$$
+f(x) = \int_0^{2\pi}\sin\phi e^{i\pi\theta}
+$$
